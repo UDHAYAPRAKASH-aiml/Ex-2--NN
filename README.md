@@ -1,6 +1,6 @@
 <H3>Name:UDHAYA PRAKASH V</H3> 
 <H3>Register no.212224240177</H3>
-<H3>Date:08.10.2025</H3>
+<H3>Date:14-10-26</H3>
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
 # AIM:
